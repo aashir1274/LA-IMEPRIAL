@@ -1,0 +1,9 @@
+old branch :eprojectbranch1
+old remote : eprojectorigin1
+
+
+
+
+
+new branch : eprojectbranch2
+new remote: eprojectorigin2
